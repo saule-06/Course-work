@@ -11,3 +11,48 @@ h1, h2, h3, h4, h5, h6{
   display: flex;
   margin: 20px;
 }
+.col-4{ 
+  flex-basis: 33.3%;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+.col-3{
+  flex-basis: 25% ;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+.col-6{
+  flex-basis: 16.6%;
+  flex-grow: 0;
+  flex-shrink:0 ;
+}
+.col-12{
+  flex: 100% 0 0;
+}
+.col-1{
+  flex: 8.3% 0 0;
+}
+.col-2{
+  flex: 16.6% 0 0;
+}
+.col-5{
+flex: 41.6% 0 0;
+}
+.col-6{
+  flex: 50% 0 0;
+}
+.col-7{
+  flex: 58.3% 0 0;
+}
+.col-8{
+  flex: 66.6% 0 0;
+}
+.col-9{
+  flex: 75% 0 0;
+}
+.col-10{
+  flex: 83% 0 0;
+}
+.col-11{
+ flex: 91.6% 0 0 ;
+}
