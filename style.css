@@ -56,3 +56,10 @@ flex: 41.6% 0 0;
 .col-11{
  flex: 91.6% 0 0 ;
 }
+.container header{
+  margin: -20px;
+}
+header img{
+  width: 608px;
+  height: 912.95px;
+}
