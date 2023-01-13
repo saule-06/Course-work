@@ -85,3 +85,14 @@ header img{
 .header-text{
   margin: 90px;
 }
+.content{
+  display: flex;
+}
+.content img{
+  width: 36px;
+  height: 36px;
+}
+.box img{
+  width: 20px;
+  height: 20px;
+}
