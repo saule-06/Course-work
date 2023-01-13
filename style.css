@@ -96,3 +96,15 @@ header img{
   width: 20px;
   height: 20px;
 }
+.box{
+  display: flex;
+}
+.navbar ul{
+  display: flex;
+  list-style-type: none;
+}
+.navbar ul li a{
+  text-decoration: none;
+  font-size: 14px;
+  font-family:'Montserrat', sans-serif;
+}
