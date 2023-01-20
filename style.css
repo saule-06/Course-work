@@ -188,3 +188,10 @@ main{
   width: 150px;
   height: 50px;
 }
+.example-text{
+  font-size: 10px;
+  font-weight: 400;
+  font-family:  'Montserrat';
+  line-height: 16px;
+  margin-top: 20px;
+}
