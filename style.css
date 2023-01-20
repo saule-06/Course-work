@@ -164,6 +164,7 @@ main{
 }
 #example-1{
   display: flex;
+  margin-left: -20px;
 }
 #example-1 article{
   flex: 0 0 23%;
@@ -199,4 +200,10 @@ main{
   display: flex;
   width: 200;
   height:50px;
+}
+.example-image1 img{
+  margin-right: 15px;
+  width: 48px;
+  height: 48px;
+  margin-top: 6px;
 }
