@@ -74,7 +74,7 @@ flex: 41.6% 0 0;
 .col-11{
  flex: 91.6% 0 0 ;
 }
-.container header{
+header{
   margin: -20px;
   display: flex;
 }
@@ -86,7 +86,7 @@ header img{
   margin: 90px;
 }
 .content{
-  display: flex;
+  
 }
 .content img{
   width: 36px;
@@ -107,4 +107,9 @@ header img{
   text-decoration: none;
   font-size: 14px;
   font-family:'Montserrat', sans-serif;
+}
+.content{
+  display: flex;
+  margin: 30px;
+  margin-top: -850px;
 }
