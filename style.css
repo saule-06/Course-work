@@ -80,7 +80,7 @@ header{
 }
 header img{
   width: 608px;
-  height: 912.95px;
+  height:  740px;
 }
 .header-text{
   margin: 90px;
@@ -99,6 +99,12 @@ header img{
   display: flex;
   margin-left:  auto;
 }
+.box .squeak{
+  margin-right: 30px;
+}
+.navbar .two {
+  margin-left: 30px;
+}
 .navbar ul{
   display: flex;
   list-style-type: none;
@@ -111,6 +117,6 @@ header img{
 .content{
   display: flex;
   margin: 30px;
-  margin-top: -850px;
+  margin-top: -695px;
   
 }
