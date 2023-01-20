@@ -171,3 +171,12 @@ main{
   border: 1px solid #E0E0E0;
   margin: 15px;
 }
+.example-card{
+  margin: 15px;
+}
+.example-image img{
+  margin-right: 15px;
+  width: 48px;
+  height: 48px;
+  margin-top: 6px;
+}
