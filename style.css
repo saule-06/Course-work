@@ -124,3 +124,9 @@ header img{
   color: #156963;
   font-weight: 700;
 }
+.two{
+  background-color: #156963;
+  color: white;
+  font-weight: 700;
+  padding: 8px 20px;
+}
