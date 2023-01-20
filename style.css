@@ -213,3 +213,11 @@ main{
 .example-image1 h6{
   margin-top: 10px;
 }
+.section-text2{
+  margin-top: 40px;
+  margin-left: auto;
+  display: flex;
+  border: 1px solid #E0E0E0;
+  width: 120px;
+  height: 31px;
+}
