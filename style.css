@@ -81,6 +81,7 @@ flex: 41.6% 0 0;
  flex: 91.6% 0 0 ;
 }
 header{
+  margin: 0 auto;
   margin: -20px;
   display: flex;
 }
