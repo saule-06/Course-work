@@ -164,5 +164,10 @@ main{
 }
 #example-1{
   display: flex;
-  
+}
+#example-1 article{
+  flex: 0 0 23%;
+  display: flex;
+  border: 1px solid #E0E0E0;
+  margin: 15px;
 }
