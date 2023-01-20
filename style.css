@@ -156,3 +156,13 @@ header p {
   line-height: 32px;
   margin-top: -10px;
 }
+.container{
+  margin: 40px;
+}
+main{
+  margin-top: 700px;
+}
+#example-1{
+  display: flex;
+  
+}
