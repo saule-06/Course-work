@@ -136,3 +136,10 @@ header img{
 .header-text{
   margin: 90px;
 }
+header p {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 32px;
+  margin-top: -10px;
+}
