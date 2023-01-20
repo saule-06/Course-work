@@ -30,6 +30,9 @@ h5{
 }
 h6{
   font-size: 16px;
+  font-weight: 700;
+  color: #156963;
+  line-height: 24px;
 }
 .container{
   display: flex;
@@ -207,6 +210,6 @@ main{
   height: 48px;
   margin-top: 6px;
 }
-.example-image1 h5{
+.example-image1 h6{
   margin-top: 10px;
 }
