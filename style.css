@@ -309,3 +309,6 @@ main{
 .section-card1-text h2{
   margin-top: 40px;
 }
+.section-card1-text p{
+  color: rgb(104, 98, 98);
+}
