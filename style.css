@@ -251,3 +251,6 @@ main{
   border: 1px solid #E0E0E0;
   margin-top: 18px;
 }
+.row{
+  display: flex;
+}
