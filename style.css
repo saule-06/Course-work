@@ -291,3 +291,8 @@ main{
   margin-top: 40px;
   display: flex;
 }
+.section-card1 img{
+  width: 600px;
+  height: 280px;
+  margin-top: 42px;
+}
