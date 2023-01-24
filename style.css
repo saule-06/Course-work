@@ -255,9 +255,18 @@ main{
   display: flex;
 }
 .row img{
+  width: 217px;
+  height: 217px;
   
-
 }
 .card{
-  margin: 20px;
+  margin: 10px;
+  margin-top: 30px;
+}
+
+.card-text p{
+  font-family: 'Montserrat';
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.5px;
 }
