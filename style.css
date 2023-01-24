@@ -302,3 +302,7 @@ main{
   font-family: 'Montserrat', sans-serif;
   line-height: 32px;
 }
+.section-card1-text{
+  margin: 30px;
+  margin-right: 70px;
+}
