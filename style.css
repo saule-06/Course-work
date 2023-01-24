@@ -255,6 +255,9 @@ main{
   display: flex;
 }
 .row img{
-  margin-left: -20px;
-  margin-top: -10px;
+  
+
+}
+.card{
+  margin: 20px;
 }
