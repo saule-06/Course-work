@@ -254,3 +254,7 @@ main{
 .row{
   display: flex;
 }
+.row img{
+  margin-left: -20px;
+  margin-top: -10px;
+}
