@@ -249,7 +249,5 @@ main{
 }
 .line{
   border: 1px solid #E0E0E0;
-  margin-top: -50px;
-  margin-right: 20px;
-  margin-left: 20px;
+  margin-top: 18px;
 }
