@@ -296,3 +296,9 @@ main{
   height: 280px;
   margin-top: 42px;
 }
+.section-card1 p{
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 32px;
+}
