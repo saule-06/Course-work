@@ -316,3 +316,7 @@ main{
 .section-card1-text p{
   color: rgb(104, 98, 98);
 }
+.section-text{
+  margin: 55px;
+  margin-left: 90px;
+}
