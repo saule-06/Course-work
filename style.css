@@ -370,13 +370,13 @@ button{
   line-height: 24px;
   color: #156963;
 }
-.col-3 h5{
+.col-3 h6{
   font-family: 'Work Sans';
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 16px;
-  color: black;
+  color: #000000;
 }
 .footer-img1{
   width: 234px;
@@ -407,11 +407,11 @@ footer .col-3-box p{
   color: #4F4F4F;
   margin-top: -15px;
 }
-footer .col-3-box h5{
+footer .col-3-box h6{
   font-family: 'Work Sans';
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
-  color: #333333;
+  color: #000000;
 }
