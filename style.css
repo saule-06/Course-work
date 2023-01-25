@@ -359,3 +359,6 @@ button{
   margin: 130px;
   margin-top: 40px;
 }
+.row-1 .col-3{
+  justify-content: center;
+}
