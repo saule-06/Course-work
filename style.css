@@ -386,3 +386,11 @@ button{
   width: 51px;
   height: 22px;
 }
+footer p{
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #000000;
+}
