@@ -167,7 +167,7 @@ header p {
   margin-top: -10px;
 }
 .container{
-  margin: 40px;
+  margin: 60px;
 }
 main{
   margin-top: 700px;
@@ -219,8 +219,8 @@ main{
 }
 .example-image1 img{
   margin-right: 15px;
-  width: 48px;
-  height: 48px;
+  width: 45px;
+  height: 45px;
   margin-top: 6px;
 }
 .example-image1 h6{
@@ -292,9 +292,13 @@ main{
   display: flex;
 }
 .section-card1 img{
-  width: 600px;
-  height: 280px;
+  width: 630px;
+  height: 260px;
   margin-top: 42px;
+}
+.section-card2 img{
+  width: 513px;
+  height: 680px;
 }
 .section-card1 p{
   font-size: 18px;
