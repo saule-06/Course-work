@@ -328,3 +328,7 @@ main{
 .section-imag {
   margin-right: 30px;
 }
+.section-imag img{
+  width: 400px;
+  height: 330px;
+}
