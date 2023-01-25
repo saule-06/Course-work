@@ -292,8 +292,8 @@ main{
   display: flex;
 }
 .section-card1 img{
-  width: 630px;
-  height: 260px;
+  width: 620px;
+  height: 270px;
   margin-top: 42px;
 }
 .section-card2 img{
@@ -316,19 +316,34 @@ main{
 .section-card1-text p{
   color: rgb(104, 98, 98);
 }
-.section-text{
+.section-text13{
   margin: 55px;
   margin-left: 90px;
 }
 .section-cartockka{
   display: flex;
   background: #F3F4F6;
-  margin-top: 60px;
-}
+  margin-top: 80px;
+  width: 1205px;
+  height: 330px;
+}  
 .section-imag {
   margin-right: 30px;
+
 }
 .section-imag img{
   width: 400px;
   height: 330px;
+}
+button{
+  background-color: #156963;
+  color: white;
+  border: #156963;
+  width: 152px;
+  height: 40px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
 }
