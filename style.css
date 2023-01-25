@@ -320,3 +320,8 @@ main{
   margin: 55px;
   margin-left: 90px;
 }
+.section-cartockka{
+  display: flex;
+  background: #F3F4F6;
+  margin-top: 60px;
+}
