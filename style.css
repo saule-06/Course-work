@@ -398,3 +398,12 @@ footer .col-3-box{
   width: 282px;
   height: 137px;
 }
+footer .col-3-box p{
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  color: #4F4F4F;
+  margin-top: -15px;
+}
