@@ -354,3 +354,8 @@ button{
   margin-left: -60px;
   margin-right: -60px;
 }
+.row1{
+  display: flex;
+  margin: 130px;
+  margin-top: 40px;
+}
