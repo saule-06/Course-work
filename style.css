@@ -347,3 +347,10 @@ button{
   font-size: 14px;
   line-height: 20px;
 }
+.line2{
+  opacity: 0.3;
+  border: 1px solid #156963;
+  margin-top: 80px;
+  margin-left: -60px;
+  margin-right: -60px;
+}
