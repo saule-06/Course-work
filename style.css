@@ -394,3 +394,7 @@ footer p{
   line-height: 16px;
   color: #000000;
 }
+footer .col-3-box{
+  width: 282px;
+  height: 137px;
+}
