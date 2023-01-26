@@ -18,6 +18,12 @@ h1{
 }
 h2{
   font-size: 32px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 39px;
+  color: #156963;
 }
 h3{
   font-size: 12px;
@@ -102,6 +108,9 @@ header img{
 .header-text{
   margin: 90px;
 }
+.header-text .row .may{
+  display: flex;
+}
 header .row img{
   width: 21.33px;
   height: 18.67px;
@@ -110,6 +119,10 @@ header .row img{
   width: 36px;
   height: 36px;
   margin-top: 6px;
+}
+.row{
+  justify-content: flex-end;
+  margin-right: -60;
 }
 .box img {
   width: 20px;
