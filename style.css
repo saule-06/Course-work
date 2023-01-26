@@ -17,7 +17,7 @@ h1{
   color: #156963;
 }
 h2{
-  font-size: 40px;
+  font-size: 32px;
 }
 h3{
   font-size: 12px;
@@ -101,6 +101,10 @@ header img{
 }
 .header-text{
   margin: 90px;
+}
+header .row img{
+  width: 21.33px;
+  height: 18.67px;
 }
 .content img{
   width: 36px;
@@ -405,7 +409,7 @@ footer .col-3-box p{
   font-size: 13px;
   line-height: 20px;
   color: #4F4F4F;
-  margin-top: -15px;
+  
 }
 footer .col-3-box h6{
   font-family: 'Work Sans';
