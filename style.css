@@ -122,7 +122,21 @@ header .row img{
 }
 .row{
   justify-content: flex-end;
-  margin-right: -60;
+  margin-right: -70px;
+  margin-top: 100px;
+}
+.row col-6{
+  justify-content: center;
+  align-items: center;
+}
+.row .bloc{
+  width: 320px;
+  height: 160px;
+  background-color: #156963;
+  justify-content: center;
+}
+.row .bloc h2{
+  color: white;
 }
 .box img {
   width: 20px;
@@ -154,8 +168,7 @@ header .row img{
 .content{
   display: flex;
   margin: 40px;
-  margin-top: -695px;
-  
+  margin-top: -780px;  
 }
 .one{
   color: #156963;
@@ -402,6 +415,13 @@ button{
 .footer-img2{
   width: 51px;
   height: 22px;
+}
+.search{
+  margin-top: -20px;
+}
+.button{
+  margin-top: 15px;
+  
 }
 footer p{
   font-family: 'Work Sans';
