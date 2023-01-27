@@ -17,6 +17,9 @@ h1{
   color: #156963;
 }
 h2{
+  font-size: 40px;
+}
+h3{
   font-size: 32px;
   font-family: 'Montserrat';
   font-style: normal;
@@ -24,9 +27,6 @@ h2{
   font-size: 32px;
   line-height: 39px;
   color: #156963;
-}
-h3{
-  font-size: 12px;
 }
 h4{
   font-size: 24px;
@@ -120,14 +120,10 @@ header .row img{
   height: 36px;
   margin-top: 6px;
 }
-.row{
+header .row{
   justify-content: flex-end;
   margin-right: -70px;
   margin-top: 100px;
-}
-.row col-6{
-  justify-content: center;
-  align-items: center;
 }
 .row .bloc{
   width: 320px;
@@ -295,6 +291,13 @@ main{
   width: 217px;
   height: 217px;
   
+}
+.row .col-2.5{
+  max-width: 100%;
+}
+.k-cut img {
+  width: 217px;
+  height: 217px;
 }
 .card{
   margin: 10px;
