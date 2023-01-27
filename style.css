@@ -204,7 +204,7 @@ flex: 41.6% 0 0;
 .content{
   display: flex;
   margin: 40px;
-  margin-top: -780px;  
+  margin-top: -795px;  
 }
 .one{
   color: #156963;
@@ -327,7 +327,7 @@ main{
 .row{
   display: flex;
 }
-.row img{
+.row .card img{
   width: 217px;
   height: 217px;
   
@@ -431,6 +431,12 @@ button{
   display: flex;
   margin: 130px;
   margin-top: 40px;
+}
+.sinze{
+  margin-left: 50px;
+}
+.sinze1{
+  margin-left: 10px;
 }
 .row-1 .col-3{
   justify-content: center;
