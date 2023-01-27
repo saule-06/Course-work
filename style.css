@@ -96,22 +96,21 @@ flex: 41.6% 0 0;
 .col-11{
  flex: 91.6% 0 0 ;
 }
-header{
+.header{
   margin: 0 auto;
-  margin: -20px;
   display: flex;
 }
-header img{
-  width: 608px;
-  height:  740px;
+.header img{
+  width: 50%;
+  height:  60%;
 }
 .header-text{
-  margin: 90px;
+  margin: 40%;
 }
 .header-text .row .may{
   display: flex;
 }
-header .row img{
+.header .row img{
   width: 21.33px;
   height: 18.67px;
 }
@@ -120,19 +119,24 @@ header .row img{
   height: 36px;
   margin-top: 6px;
 }
-header .row{
+.header .row{
   justify-content: flex-end;
   margin-right: -70px;
   margin-top: 100px;
 }
-.row .bloc{
+.row .bloc h3{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 39px;
+  color: white;
+  margin-left: 35px;
+}
+.row .bloc {
   width: 320px;
   height: 160px;
   background-color: #156963;
-  justify-content: center;
-}
-.row .bloc h2{
-  color: white;
 }
 .box img {
   width: 20px;
@@ -185,7 +189,7 @@ header .row{
 .header-text{
   margin: 90px;
 }
-header p {
+.header p {
   font-size: 18px;
   font-weight: 400;
   font-family: 'Montserrat', sans-serif;
@@ -296,7 +300,7 @@ main{
   max-width: 100%;
 }
 .k-cut img {
-  width: 217px;
+  width: 230px;
   height: 217px;
 }
 .card{
