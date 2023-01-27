@@ -438,6 +438,9 @@ button{
 .sinze1{
   margin-left: 10px;
 }
+.sinze p{
+  margin-top: -5px;
+}
 .row-1 .col-3{
   justify-content: center;
 }
